@@ -1,13 +1,7 @@
-# Interface web
 streamlit==1.37.0
-
-# Manipulação de dados
 pandas==2.2.2
-
-# Leitura de arquivos Excel (.xlsx e .xls)
 openpyxl==3.1.2
 xlrd==2.0.1
-
-# Visualização de gráficos interativos
 plotly==5.22.0
-kaleido==0.2.1   # exportar gráficos para PNG
+kaleido==0.2.1
+matplotlib==3.8.4
