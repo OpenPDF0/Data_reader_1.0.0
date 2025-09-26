@@ -12,7 +12,7 @@ Funcionalidades:
 - Série temporal (dia/semana/mês/trimestre/ano) quando houver coluna de data
 - Download do gráfico em PNG (requer kaleido)
 """
-import plotly
+
 import io
 import json
 import pandas as pd
@@ -366,6 +366,7 @@ st.markdown(
     "<p style='text-align:center; color:gray;'>Projeto acadêmico — Equipe batidão Uniruy</p>",
     unsafe_allow_html=True,
 )
+
 
 
 
