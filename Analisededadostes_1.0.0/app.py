@@ -18,6 +18,7 @@ import json
 import pandas as pd
 import streamlit as st
 import plotly.express as px  # paletas
+import plotly.io as pio
 
 # módulos próprios
 from utils import (
