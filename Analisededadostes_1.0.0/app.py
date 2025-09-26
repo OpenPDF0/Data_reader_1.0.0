@@ -17,7 +17,6 @@ import io
 import json
 import pandas as pd
 import streamlit as st
-import plotly.io as pio
 import plotly.express as px  # paletas
 
 # módulos próprios
@@ -366,4 +365,5 @@ st.markdown(
     "<p style='text-align:center; color:gray;'>Projeto acadêmico — Equipe batidão Uniruy</p>",
     unsafe_allow_html=True,
 )
+
 
